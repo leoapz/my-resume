@@ -1,5 +1,5 @@
 # Site
-repository: leoapz/cv
+repository: leoapz/my-resume
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,7 @@ version: 2
 name: Leonardo Apaza
 title: Senior SDET | QA Automation Engineer | Playwright & TypeScript | AI-Driven Testing
 email: leoapaza2@gmail.com
-website: leoapz.github.io/cv
+website: leoapz.github.io/my-resume
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -22,7 +22,7 @@ linkedin_username: leo-apaza
 additional_links:
   - title: Descargar CV (PDF)
     icon: fas fa-file-pdf
-    url: https://leoapz.github.io/my-resume/assets/resume_Leonardo_Apaza_SDET_Senior.pdf
+    url: https://leoapz.github.io/my-resume/assets/cv_Leonardo_Apaza_SDET_Senior.pdf
 
 # About Section
 about_profile_image: images/profile.jpg
