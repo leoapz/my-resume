@@ -25,7 +25,6 @@ additional_links:
     url: https://leoapz.github.io/my-resume/assets/cv_Leonardo_Apaza_SDET_Senior.pdf
 
 # About Section
-about_profile_image: images/profile.jpg
 about_content: |
   Ingeniero de Software Senior especializado en Calidad (SDET) y Automatización
   de Backend. Experto en optimizar estrategias de testing mediante Playwright/TypeScript y en el diseño de herramientas de observabilidad
